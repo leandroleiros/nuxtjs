@@ -17,7 +17,7 @@
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/leandroleiros"
           target="_blank"
           class="button--grey"
         >
