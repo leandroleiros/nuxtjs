@@ -6,7 +6,7 @@
         Leandro Leiros
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        Advertising & Developer Digital
       </h2>
       <div class="links">
         <a
